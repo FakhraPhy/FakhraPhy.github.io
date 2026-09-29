@@ -1,0 +1,91 @@
+primary_name: "Fakhra Ghafoor"
+secondary_name: ""
+navbar_name: "Dr. Fakhra Ghafoor"
+
+positions:
+- name: Physics Faculty | Researcher
+- name: PhD in Physics, PIEAS, Islamabad
+  logo: /assets/images/badges/university.svg
+
+email: "fakhraaghafoor@gmail.com"
+cv_link: /assets/files/Dr_Fakhra_Ghafoor_CV.pdf
+gscholar: 6ZdflxYAAAAJ
+linkedin: fakhra-ghafoor-88774217a
+# github: your_github_id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a physics educator and researcher in <b>computational condensed matter physics</b>.
+    I received my PhD in Physics from the Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad,
+    with a thesis on <i>First Principles Calculations of Zirconium Based MXene Interfaces</i>.
+    I have taught undergraduate to graduate-level physics since 2009.
+  </p>
+  <p>
+    My research combines first-principles computational physics with materials modelling, with emphasis on
+    DFT and TDDFT dynamical studies of 2D materials, MXenes, perovskites, bulk and functional materials.
+  </p>
+  <p class="mb-1"><b>Research interests</b></p>
+  <ul>
+    <li>DFT and TDDFT studies of 2D materials and MXenes</li>
+    <li>Linear and nonlinear optics (second-harmonic generation)</li>
+    <li>Perovskites and photovoltaic materials</li>
+    <li>Thermoelectric and infrared-responsive materials</li>
+  </ul>
+
+portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Optional caption.
+
+education:
+- name: Pakistan Institute of Engineering and Applied Sciences (PIEAS)
+  logo: /assets/images/badges/university.svg
+  position: >-
+    PhD in Physics <br/>
+    Thesis: First Principles Calculations of Zirconium Based MXene Interfaces
+  date: 2018 - 2025
+- name: Quaid-i-Azam University, Islamabad
+  logo: /assets/images/badges/university.svg
+  position: >-
+    MS / MPhil in Physics <br/>
+    Experimental High Energy Physics
+  date: 2011 - 2013
+- name: University of Wah
+  logo: /assets/images/badges/university.svg
+  position: BS in Physics
+  date: 2005 - 2009
+
+experience:
+- name: University of Jyväskylä (JYU)
+  logo: /assets/images/badges/briefcase.svg
+  position: Remote Graduate-Level Physics Instructor
+  date: 2022
+- name: PIEAS, Islamabad
+  logo: /assets/images/badges/briefcase.svg
+  position: PhD Researcher / Scholar
+  date: 2018 - 2025
+- name: University of Wah
+  logo: /assets/images/badges/briefcase.svg
+  position: Lecturer in Physics
+  date: 2013 - 2018
+- name: Government Degree College for Women, Taxila
+  logo: /assets/images/badges/briefcase.svg
+  position: Lecturer in Physics
+  date: 2010 - 2011
+- name: COMWAVE Institute of Science and Information Technology
+  logo: /assets/images/badges/briefcase.svg
+  position: Visiting Lecturer
+  date: 2009 - 2010
+
+awards:
+- name: Best Poster Award, ISPAD 2024 (NCP & ICTP Italy)
+  date: 2024
+- name: HEC Scholarship (PhD)
+  date: 2018 - 2025
+- name: Research Scholarship, World Federation of Scientists (WFS), Geneva
+  date: MPhil
+- name: Merit Scholarship
+  date: MPhil
+- name: 2nd Position, BS Physics, University of Wah
+  date: 2009
